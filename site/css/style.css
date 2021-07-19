@@ -2,7 +2,12 @@ h1{
   font: normal 400 50px 'Press Start 2P', sans-serif;
   float: left;
   text-align: left;
-  margin: 100px;
+  margin: 10px;
   margin-left: 5px;
   margin-top: 600px;
+}
+
+button {
+ display:inline-block;
+ text-align:center;
 }
