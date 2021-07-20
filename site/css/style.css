@@ -29,4 +29,11 @@ h2 {
   color: #000;
   margin-left: 5px;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: flex-start;
+  flex-flow: row wrap;
+  height: 500px;
 }
