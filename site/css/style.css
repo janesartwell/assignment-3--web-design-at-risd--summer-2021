@@ -2,11 +2,21 @@
   background-color: #C2E8F5;
 }
 
+header{
+  border-radius: 100%;
+}
+
 h1{
   font: normal 400 50px 'Italiana', sans-serif;
   color: #000;
   margin: 10px;
   text-align: center;
-  margin-top: 25%;
+  margin-top: 20%;
+  letter-spacing: 5px;
+h2{
+  font: normal 400 20px 'Roboto', sans-serif;
+  color: #000;
+  text-align: center;
+  margin-top: 20px;;
   letter-spacing: 5px;
 }
