@@ -32,8 +32,7 @@ h2 {
 
 .container {
   display: flex;
+  flex-flow: column nowrap;
   justify-content: center;
-  align-content: flex-start;
-  flex-flow: row wrap;
-  height: 500px;
+  align-items: center;
 }
