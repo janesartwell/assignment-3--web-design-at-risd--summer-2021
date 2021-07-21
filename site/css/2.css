@@ -17,6 +17,7 @@ h1 {
   text-align: center;
   margin-top: -300px;
   margin-right: -300px;
+  margin-bottom: 50px;
   font: normal 400 125px 'Italiana', serif;
   letter-spacing: 5px;
   text-shadow: 2px 2px 2px #fff;
@@ -26,7 +27,7 @@ p {
   text-align: right;
   font: normal 400 25px 'Roboto', sans-serif;
   line-height: 2;
-  margin-top: 150px;
+  margin-top: 95px;
   margin-right: 50px;
   margin-bottom: 10px;
 }
@@ -41,6 +42,7 @@ figcaption {
 section {
   font: normal 400 25px 'Italiana', serif;
   text-align: center;
+  margin-bottom: 5px;
 }
 
 span {
