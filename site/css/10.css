@@ -1,0 +1,51 @@
+html {
+  background-color: #6dde7e;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+  background: #C2E8F5;
+  color: #000;
+  text-align: center;
+  padding-left: 20px;
+  font: normal 400 700px sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: -300px;
+  margin-right: -300px;
+  margin-bottom: -50px;
+  font: normal 400 125px 'Italiana', serif;
+  letter-spacing: 5px;
+  text-shadow: 2px 2px 2px #fff;
+}
+
+p {
+  text-align: right;
+  font: normal 400 25px 'Roboto', sans-serif;
+  line-height: 2;
+  margin-top: 150px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+}
+
+figcaption {
+  text-align: right;
+  margin-right: 50px;
+  margin-bottom: 30px;
+  font: italic 400 15px 'Roboto', sans-serif;
+}
+
+section {
+  font: normal 400 25px 'Italiana', serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.fancy {
+  font: normal 30px 'Italiana', sans-serif;
+  color: #000;
+}
