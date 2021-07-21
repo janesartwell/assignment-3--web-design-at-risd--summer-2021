@@ -26,9 +26,10 @@ section {
 }
 
 .circle {
-  border-radius: 50%;
   width: 100px;
   height: 100px;
+  background-color: #6dde7e;
+  border-radius: 50%;
   font: normal 400 25px 'Italiana', sans-serif;
   text-align: center;
   color: #000;
