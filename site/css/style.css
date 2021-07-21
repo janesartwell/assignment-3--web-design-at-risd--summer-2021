@@ -5,8 +5,9 @@
 h1 {
   font: normal 400 50px 'Italiana', sans-serif;
   color: #000;
+  justify-content: center;
   text-align: center;
-  margin: 20%;
+  margin: 10%;
   margin-bottom: 10px;
   letter-spacing: 5px;
 }
@@ -15,12 +16,16 @@ h2 {
   font: normal 400 20px 'Roboto', sans-serif;
   color: #000;
   text-align: center;
-  margin-top: 20px;
+  margin-top: 5px;
   letter-spacing: 5px;
 }
 
+section {
+  display: flex;
+  justify-content: center;
+}
+
 .circle {
-  background: #DEB183;
   border-radius: 50%;
   width: 100px;
   height: 100px;
@@ -32,9 +37,13 @@ h2 {
 
 .container {
   display: flex;
-  flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
+  flex-flow: row wrap;
+  width: 800px;
+  margin-top: 100px;
+}
+
 .div-1 {
   background-color: #6dde7e;
   border-radius: 50%;
