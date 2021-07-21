@@ -46,3 +46,7 @@ section {
 span {
   margin-top: 100px;
 }
+
+.fancy {
+  font: normal 30px 'Italiana', sans-serif;
+}

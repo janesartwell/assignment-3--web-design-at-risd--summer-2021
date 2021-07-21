@@ -24,7 +24,7 @@ h1 {
 
 p {
   text-align: right;
-  font: normal 400 25px 'Roboto', sans-serif;
+  font: normal 200 25px 'Roboto', sans-serif;
   line-height: 2;
   margin-top: 150px;
   margin-right: 50px;
@@ -41,4 +41,8 @@ figcaption {
 section {
   font: normal 400 25px 'Italiana', serif;
   text-align: center;
+}
+
+.fancy {
+  font: normal 30px 'Italiana', sans-serif;
 }
