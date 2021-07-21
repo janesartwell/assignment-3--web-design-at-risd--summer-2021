@@ -18,6 +18,7 @@ h1 {
   margin-top: -300px;
   font: normal 400 125px 'Italiana', serif;
   letter-spacing: 5px;
+  text-shadow: 2px 2px 2px #fff;
 }
 
 p {
