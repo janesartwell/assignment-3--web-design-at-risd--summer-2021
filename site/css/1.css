@@ -12,3 +12,11 @@ html {
   padding-left: 20px;
   font: normal 900px 'Roboto', sans-serif;
 }
+
+h1 {
+  text-align: center;
+  margin-top: -300px;
+  font: normal 125px 'Italiana', serif;
+  letter-spacing: 5px;
+}
+
