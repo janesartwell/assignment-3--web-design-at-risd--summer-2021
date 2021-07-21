@@ -19,6 +19,13 @@ h2 {
   text-align: center;
   margin-top: 5px;
   letter-spacing: 5px;
+  margin-bottom: 50px;
+}
+
+footer {
+  font: normal 400 15px 'Roboto', sans-serif;
+  text-align: right;
+  margin: 8px;
 }
 
 section {
@@ -34,6 +41,7 @@ section {
   font: normal 400 25px 'Italiana', sans-serif;
   text-align: center;
   color: #000;
+  font-weight: 500;
   margin-left: 5px;
 }
 
@@ -85,5 +93,14 @@ section {
   flex-flow: wrap;
   justify-content: space-around;
   width: 500px;
-  margin-top: 50px;
+  margin-top: 20px;
+}
+
+.reverse {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap-reverse;
+  justify-content: space-around;
+  width: 500px;
 }
