@@ -42,3 +42,7 @@ section {
   font: normal 400 25px 'Italiana', serif;
   text-align: center;
 }
+
+.fancy {
+  font: normal 30px 'Italiana', sans-serif;
+}
