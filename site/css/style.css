@@ -50,12 +50,33 @@ section {
 }
 
 .circle-4 {
-  background-color: #DEB183;
+  background-color: #DFBFA5;
 }
 
 .circle-5 {
   background-color: #F7ACFB
 }
+
+.circle-6 {
+  background-color: #DFBFA5
+}
+
+.circle-7 {
+  background-color: #FAD528
+}
+
+.circle-8 {
+  background-color: #F7ACFB
+}
+
+.circle-9 {
+  background-color: #C2C1F5
+}
+
+.circle-10 {
+  background-color: #6dde7e
+}
+
 
 .container {
   display: flex;
@@ -64,5 +85,5 @@ section {
   flex-flow: wrap;
   justify-content: space-around;
   width: 500px;
-  margin-top: 100px;
+  margin-top: 50px;
 }
