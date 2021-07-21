@@ -23,6 +23,13 @@ h1 {
 p {
   text-align: right;
   font: normal 25px 'Roboto', sans-serif;
-  margin-top: 300px;
-  margin-right: 200px;
+  margin-top: 200px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+}
+
+figcaption {
+  text-align: right;
+  margin-right: 50px;
+  font: italic 15px 'Roboto', sans-serif;
 }
