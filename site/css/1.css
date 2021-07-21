@@ -10,19 +10,19 @@ html {
   color: #000;
   text-align: center;
   padding-left: 20px;
-  font: normal 900px 'Roboto', sans-serif;
+  font: normal 400 900px 'Roboto', sans-serif;
 }
 
 h1 {
   text-align: center;
   margin-top: -300px;
-  font: normal 125px 'Italiana', serif;
+  font: normal 400 125px 'Italiana', serif;
   letter-spacing: 5px;
 }
 
 p {
   text-align: right;
-  font: normal 25px 'Roboto', sans-serif;
+  font: normal 400 25px 'Roboto', sans-serif;
   margin-top: 200px;
   margin-right: 50px;
   margin-bottom: 10px;
