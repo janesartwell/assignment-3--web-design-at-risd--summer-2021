@@ -45,6 +45,10 @@ section {
   margin-top: 100px;
 }
 
+div {
+  letter-spacing: -140px;
+}
+
 .fancy {
   font: normal 30px 'Italiana', sans-serif;
   color: #000;
