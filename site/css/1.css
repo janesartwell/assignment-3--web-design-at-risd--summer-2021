@@ -33,3 +33,8 @@ figcaption {
   margin-right: 50px;
   font: italic 15px 'Roboto', sans-serif;
 }
+
+section {
+  font: normal 400 25px 'Italiana', serif;
+  text-align: center;
+}
