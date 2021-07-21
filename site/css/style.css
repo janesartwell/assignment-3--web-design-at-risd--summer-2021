@@ -35,4 +35,24 @@ h2 {
   flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
+.div-1 {
+  background-color: #6dde7e;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  font: normal 400 25px 'Italiana', sans-serif;
+  text-align: center;
+  color: #000;
+  margin-left: 5px;
+}
+
+.div-2 {
+  background-color: #fad528;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  font: normal 400 25px 'Italiana', sans-serif;
+  text-align: center;
+  color: #000;
+  margin-left: 5px;
 }
