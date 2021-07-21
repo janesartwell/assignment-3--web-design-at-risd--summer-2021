@@ -10,7 +10,7 @@ html {
   color: #000;
   text-align: center;
   padding-left: 20px;
-  font: normal 400 900px 'Roboto', sans-serif;
+  font: normal 400 700px sans-serif;
 }
 
 h1 {
@@ -23,7 +23,8 @@ h1 {
 p {
   text-align: right;
   font: normal 400 25px 'Roboto', sans-serif;
-  margin-top: 200px;
+  line-height: 2;
+  margin-top: 150px;
   margin-right: 50px;
   margin-bottom: 10px;
 }
@@ -32,7 +33,7 @@ figcaption {
   text-align: right;
   margin-right: 50px;
   margin-bottom: 30px;
-  font: italic 15px 'Roboto', sans-serif;
+  font: italic 400 15px 'Roboto', sans-serif;
 }
 
 section {
