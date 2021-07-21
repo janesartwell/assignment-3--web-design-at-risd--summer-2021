@@ -36,13 +36,13 @@ figcaption {
   text-align: right;
   margin-right: 50px;
   margin-bottom: 30px;
-  font: italic 15px 'Roboto', sans-serif;
+  font: italic 400 15px 'Roboto', sans-serif;
 }
 
 section {
   font: normal 400 25px 'Italiana', serif;
   text-align: center;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 span {
