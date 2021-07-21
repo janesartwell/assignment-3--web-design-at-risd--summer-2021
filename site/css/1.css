@@ -20,3 +20,9 @@ h1 {
   letter-spacing: 5px;
 }
 
+p {
+  text-align: right;
+  font: normal 25px 'Roboto', sans-serif;
+  margin-top: 300px;
+  margin-right: 200px;
+}
