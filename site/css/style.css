@@ -39,7 +39,8 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-flow: row wrap;
-  width: 800px;
+  flex-flow: wrap;
+  justify-content: space-around;
+  width: 500px;
   margin-top: 100px;
 }
