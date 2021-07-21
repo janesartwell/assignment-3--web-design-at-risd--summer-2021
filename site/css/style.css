@@ -35,6 +35,26 @@ section {
   margin-left: 5px;
 }
 
+.circle-1 {
+  background-color: #6dde7e;
+}
+
+.circle-2 {
+  background-color: #C2C1F5;
+}
+
+.circle-3 {
+  background-color: #FAD528;
+}
+
+.circle-4 {
+  background-color: #DEB183;
+}
+
+.circle-5 {
+  background-color: #F7ACFB
+}
+
 .container {
   display: flex;
   justify-content: center;
